@@ -7,11 +7,15 @@
 
 <h2 align="left"> Find Me On Social Media </h2>
 
-<img align="left"><a href="https://twitter.com/edwiin_kj"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
-<img align="left" <a href="https://instagram.com/_ryuzennn_"><width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-<img align="left" <a href="https://t.me/ryuzenn"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
-<img align="left" <a href="https://www.facebook.com/ryuzennn"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
-<img align="left" <a href="https://mail.google.com/mail/u/0/#inbox.com/channels/kutemeikito0905@gmail.com"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
+<a href="https://twitter.com/edwiin_kj"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+
+<a href="https://instagram.com/_ryuzennn_"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+
+<a href="https://t.me/ryuzenn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
+
+<a href="https://www.facebook.com/ryuzennn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
+
+<a href="mailto:kutemeikito0905@gmail.com"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 
 <h3 align="center">Active Repo</h3>
 <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
