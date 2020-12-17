@@ -6,11 +6,13 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 <h2 align="center"> Find Me On Social Media </h2>
-<img align="center" alt="edwiin_kj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="center" alt="_ryuzennn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="center" alt="ryuzenn | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<img align="center" alt="ryuzennn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="center" a href="mailto:kutemeikito0905@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+[<img align="left" alt="edwiin_kj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="_ryuzennn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ryuzenn | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="ryuzennn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ryuzenn | Gamil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br />
+<br />
 
 <h3 align="center">Active Repo</h3>
 <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
@@ -26,3 +28,12 @@
 <h2 align="left"> Stats </h2>
 <p align="left"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=Kutemeikito&show_icons=true&theme=cobalt"></a></p>
 <align="right"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kutemeikito&theme=cobalt&layout=compact"></a><align="right"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
+
+
+---
+[twitter]: https://twitter.com/edwiin_kj
+[instagram]: https://instagram.com/_ryuzennn_
+[telegram]: https://t.me/ryuzenn
+[facebook]: https://www.facebook.com/ryuzennn
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/kutemeikito0905@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/#inbox.com/channels/edwiinkusumajaya9@gmail.com
