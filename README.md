@@ -5,19 +5,17 @@
 <p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
+<br>
 <h2 align="left"> Find Me On Social Media </h2>
-
 <a href="https://twitter.com/edwiin_kj"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
-
 <a href="https://instagram.com/_ryuzennn_"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-
 <a href="https://t.me/ryuzenn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
-
 <a href="https://www.facebook.com/ryuzennn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
-
 <a href="mailto:kutemeikito0905@gmail.com"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
+</br>
 
-<h3 align="center">Active Repo</h3>
+
+<h2 align="center">Active Repo</h2>
 <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
 <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false&theme=cobalt"></a></p>
 
