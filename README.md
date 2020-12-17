@@ -5,15 +5,13 @@
 <p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
-<h2 align="center"> Find Me On Social Media </h2>
+<h2 align="left"> Find Me On Social Media </h2>
 
-<img align="left" a href="https://twitter.com/edwiin_kj" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" a href="https://instagram.com/_ryuzennn_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" a href="https://t.me/ryuzenn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<img align="left" a href="https://www.facebook.com/ryuzennn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" a href="https://mail.google.com/mail/u/0/#inbox.com/channels/kutemeikito0905@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<br />
-
+<img align="left"><a href="https://twitter.com/edwiin_kj"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+<img align="left" <a href="https://instagram.com/_ryuzennn_"><width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<img align="left" <a href="https://t.me/ryuzenn"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
+<img align="left" <a href="https://www.facebook.com/ryuzennn"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
+<img align="left" <a href="https://mail.google.com/mail/u/0/#inbox.com/channels/kutemeikito0905@gmail.com"><width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 
 <h3 align="center">Active Repo</h3>
 <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
