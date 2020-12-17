@@ -6,11 +6,11 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 <h2 align="center"> Find Me On Social Media </h2>
-[<img align="center" alt="edwiin_kj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="_ryuzennn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="ryuzenn | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="center" alt="ryuzennn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" <a href="mailto:kutemeikito0905@gmail.com"> width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<img align="center" alt="edwiin_kj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="center" alt="_ryuzennn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="center" alt="ryuzenn | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="center" alt="ryuzennn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="center" a href="mailto:kutemeikito0905@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 <h3 align="center">Active Repo</h3>
 <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
