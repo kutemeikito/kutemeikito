@@ -32,5 +32,5 @@
 <align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 Credits:
-Thanks for <a href="https://github.com/azrim"> Azrim </a> For About Template
+<p> Thanks for <a href="https://github.com/azrim"> Azrim </a> For About Template</p>
 ---
