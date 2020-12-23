@@ -6,8 +6,8 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 
-<h2 align="center"> Spotify Now Playing </h2>
-[<img src="https://https://spotify-readme-indol.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
+### Spotify Playing 🎧
+[<img src="https://https://spotify-readme-indol.vercel.app/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
