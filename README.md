@@ -7,7 +7,7 @@
 
 
 <h2 align="center"> Spotify Now Playing </h2>
-<p align="center"><a href="https://pixel.chat/IfhKlSOoMixg5av/S6uh3rPGmlMrKpO"></a></p>
+[<img src="https://https://spotify-readme-indol.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
