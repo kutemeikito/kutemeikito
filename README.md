@@ -5,6 +5,10 @@
 <p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
+
+<h2 align="center"> Spotify Now Playing </h2>
+p align="center"><a href="https://pixel.chat/IfhKlSOoMixg5av/S6uh3rPGmlMrKpO"></a></p>
+
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
 <a href="https://twitter.com/edwiin_kj"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
