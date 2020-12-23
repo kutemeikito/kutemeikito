@@ -7,7 +7,7 @@
 
 
 <h2 align="center"> Spotify Now Playing </h2>
-[<img src="https://https://spotify-readme-indol.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
+[<img src="https://https://spotify-readme-indol.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
