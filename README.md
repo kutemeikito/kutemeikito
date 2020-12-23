@@ -7,7 +7,7 @@
 
 
 <h2 align="center"> Spotify Now Playing </h2>
-p align="center"><a href="https://pixel.chat/IfhKlSOoMixg5av/S6uh3rPGmlMrKpO"></a></p>
+<p align="center"><a href="https://pixel.chat/IfhKlSOoMixg5av/S6uh3rPGmlMrKpO"></a></p>
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
