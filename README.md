@@ -26,7 +26,7 @@
 
 <h2 align="center"> My RIG </h2>
 <div align="center">
-<img max-width="800" src="https://scontent.fcgk27-1.fna.fbcdn.net/v/t1.0-9/129314833_3672213426155934_5599490085098503290_o.jpg?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_eui2=AeE7bfO4B-ikM3yyOnoPU4G6BwSqt6PZQbUHBKq3o9lBtUR8ar5cb-khQXs568Wg8_HAX_lxn-gaBEEbJ3BoJrF0&_nc_ohc=HK2dj5jHGB0AX_SEKbI&_nc_ht=scontent.fcgk27-1.fna&oh=46d41b2006c1765e9adfe6a629f2dab9&oe=60019A96"/>
+<img max-width="800" src="https://github.com/kutemeikito/kutemeikito/blob/master/129314833_3672213426155934_5599490085098503290_o.jpg"/>
 </div>
 
 
