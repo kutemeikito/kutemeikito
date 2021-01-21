@@ -11,7 +11,7 @@
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
-<a href="https://twitter.com/edwiin_kj"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
+<align="center" ><a href="https://twitter.com/edwiin_kj"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
 <a href="https://instagram.com/_ryuzennn_"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 <a href="https://t.me/ryuzenn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
 <a href="https://www.facebook.com/ryuzennn"><img align="left" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
