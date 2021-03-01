@@ -26,7 +26,7 @@
 
 <h2 align="center"> My RIG </h2>
 <div align="center">
-<img max-width="800" src="https://github.com/kutemeikito/kutemeikito/blob/master/129314833_3672213426155934_5599490085098503290_o.jpg"/>
+<img max-width="800" src="https://github.com/kutemeikito/kutemeikito/blob/master/photo_2021-02-24_17-53-14.jpg"/>
 </div>
 
 
