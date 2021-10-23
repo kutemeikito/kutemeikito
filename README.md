@@ -6,9 +6,6 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 
-### Spotify Playing 🎧
-###[<img src="https://spotify-readme-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwiin_xp)
-
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
 <a href="https://twitter.com/Ryuzenn_"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
