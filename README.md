@@ -1,6 +1,6 @@
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
-<a href="https://twitter.com/Ryuzenn_"><h2 align="left"> 👋 Hi There, it's me </h2>
+<h2 align="left"> 👋 Hi There, it's me </h2>
 <p align="left"> - 😉 My Name is Edwin, My full name is Edwin Kusuma Jaya </p>
 <p align="left"> - 🔭 I'm Not Really Developer, I'm Just Android Enthusiast, Waching Anime (Weebs), and Gamer!? </p>
 <p align="left"> - 👨‍💻 I'm Maintaining The <a href="https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo">Ryzen Kernel</a> On Xiaomi Redmi Note 8 a.k.a Ginkgo  </p>
