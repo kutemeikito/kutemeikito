@@ -25,8 +25,8 @@
 <summary><b>MY RIG🔻</summary>
 <p align=center>
     <div align="center">
-    <img max-width="800" src="https://raw.githubusercontent.com/kutemeikito/kutemeikito/master/assets/photo_2021-02-24_17-53-14.jpg"/>
-    </div>theme=cobalt"></a></p>
+    <img max-width="800" src="https://raw.githubusercontent.com/kutemeikito/kutemeikito/master/assets/photo_2021-02-24_17-53-14.jpg">
+    </div>
 </details>
 
 
