@@ -22,15 +22,6 @@
 </details>
 
 <details>
-<summary><b>MY RIG🔻</summary>
-<p align=center>
-    <div align="center">
-    <img max-width="800" src="https://raw.githubusercontent.com/kutemeikito/kutemeikito/master/assets/photo_2021-02-24_17-53-14.jpg">
-    </div>
-</details>
-
-
-<details>
 <summary><b>STATS🔻</summary>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutemeikito&theme=github_dark"></a></p>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kutemeikito&theme=github_dark" width=200></a></p>
