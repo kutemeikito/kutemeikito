@@ -8,6 +8,15 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 
+### Enviroment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
+
+### Devices
+[![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/)
+[![Redmi 5 Plus](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-5-plus/)
+
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
 <p align="center"><a href="https://gist.github.com/kutemeikito/e1c7a14344b16c0a136aad4033ac8c46"><img src="https://raw.githubusercontent.com/kutemeikito/kutemeikito/master/assets/Sosial%20Media.jpg"></a></p>
