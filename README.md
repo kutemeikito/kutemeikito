@@ -3,7 +3,9 @@
 <h2 align="left"> 👋 Hi There, it's me </h2>
 <p align="left"> - 😉 My Name is Edwin, My full name is Edwin Kusuma Jaya </p>
 <p align="left"> - 🔭 I'm Not Really Developer, I'm Just Android Enthusiast, Waching Anime (Weebs), and Gamer!? </p>
-<p align="left"> - 👨‍💻 I'm Maintaining The Ryzen Kernel On [![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/) & [![Redmi 5 Plus](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-5-plus/)
+<p align="left"> - 👨‍💻 I'm Maintaining The Ryzen Kernel On 
+[![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/) 
+[![Redmi 5 Plus](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-5-plus/)
 <p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
