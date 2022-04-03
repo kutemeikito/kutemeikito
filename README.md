@@ -13,7 +13,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
-### Im Maintaining in AncientOS & Ryzen Kernel For
+### Im Maintaining AncientOS & Ryzen Kernel For
 [![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/)
 [![Redmi 5 Plus](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-5-plus/)
 
