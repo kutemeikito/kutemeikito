@@ -1,23 +1,20 @@
 <br>
 <h2 align="left"> 👋 Hi There, it's me </h2>
-- 😉 My Name is Edwin, My full name is Edwin Kusuma Jaya
-- 🔭 I'm Not Really Developer, I'm Just Android Enthusiast, Waching Anime (Weebs), and Gamer!?
-- 👨‍💻 I'm Maintaining The Ryzen Kernel On
-  [![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=ffffff&labelColor=00BBFF)](https://www.mi.com/global/redmi-note-8/) and
-  [![Redmi Note 8](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/mi-9-t/), 
-
-  BTW, [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/) extension is luv ❤️
-
-- 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
+<p align="left"> - 😉 My Name is Edwin, My full name is Edwin Kusuma Jaya </p>
+<p align="left"> - 🔭 I'm Not Really Developer, I'm Just Android Enthusiast, Waching Anime (Weebs), and Gamer!? </p>
+<p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
-
+<p align="Center"><img width="125" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkutemeikito&longCache=true" alt="kutemeikito"></p>
 
 ### Enviroment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
+### Devices
+[![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/)
+[![Redmi 5 Plus](https://img.shields.io/badge/Redmi%205%20plus-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-5-plus/)
 
 <br>
 <h2 align="left"> Find Me On Social Media </h2>
@@ -37,7 +34,7 @@
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutemeikito&theme=github_dark"></a></p>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kutemeikito&theme=github_dark" width=200></a></p>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kutemeikito&theme=github_dark" width=200></a></p>
-<p aign="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&hide=issues&show_icons=true&include_all_commits=true&theme=cobalt"></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&hide=issues&show_icons=true&include_all_commits=true&theme=cobalt"></a></p>
 
 </details>
 
