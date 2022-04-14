@@ -25,9 +25,9 @@
 <details>
 <summary><b>Active Repo🔻</summary>
 <p align=center>
-    <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&theme=cobalt"></a></p>
-    <p align="center"><a href="https://github.com/kutemeikito/android_kernel_xiaomi_vince-4.9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_vince-4.9&show_owner=false&theme=cobalt"></a></p>
-    <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false&theme=cobalt"></a></p>
+    <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false"></a></p>
+    <p align="center"><a href="https://github.com/kutemeikito/android_kernel_xiaomi_vince-4.9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_vince-4.9&show_owner=false"></a></p>
+    <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false"></a></p>
 </details>
 
 <details>
