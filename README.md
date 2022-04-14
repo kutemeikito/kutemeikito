@@ -6,7 +6,7 @@
 
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 <p align="Center"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkutemeikito&longCache=true" alt="kutemeikito"></p>
-<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&hide=issues&show_icons=true&include_all_commits=true&theme=cobalt"></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&show_icons=true&include_all_commits=true"></a></p>
 
 ### Enviroment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
