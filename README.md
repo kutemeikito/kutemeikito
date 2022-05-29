@@ -1,8 +1,5 @@
 <br>
 <h2 align="left"> 👋 Hi There, it's me </h2>
-<p align="left"> - 😉 My Name is Edwin, My full name is Edwin Kusuma Jaya </p>
-<p align="left"> - 🔭 I'm Not Really Developer, I'm Just Android Enthusiast, Waching Anime (Weebs), and Gamer!? </p>
-<p align="left"> - 🥅 I Want to ... umm.. I dunno, i just want to what i need haha </p>
 
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 <p align="Center"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkutemeikito&longCache=true" alt="kutemeikito"></p>
