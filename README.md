@@ -4,7 +4,7 @@
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 <p align="Center"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkutemeikito&longCache=true" alt="kutemeikito"></p>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&show_icons=true&bg_color=30,00008B,800080&title_color=fff&text_color=fff&include_all_commits=true"></a></p>
-<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grm34&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kutemeikito&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"></a></p>
 
 ### Enviroment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
