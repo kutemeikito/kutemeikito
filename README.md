@@ -22,16 +22,16 @@
 <details>
 <summary><b>Active Repo🔻</summary>
 <p align=center>
-    <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false"></a></p>
-    <p align="center"><a href="https://github.com/kutemeikito/android_kernel_xiaomi_vince-4.9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_vince-4.9&show_owner=false"></a></p>
-    <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false"></a></p>
+    <p align="center"><a href="https://github.com/Kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_ginkgo&show_owner=false&bg_color=30,00008B,800080&title_color=fff&text_color=fff"></a></p>
+    <p align="center"><a href="https://github.com/kutemeikito/android_kernel_xiaomi_vince-4.9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=android_kernel_xiaomi_vince-4.9&show_owner=false&bg_color=30,00008B,800080&title_color=fff&text_color=fff"></a></p>
+    <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false&bg_color=30,00008B,800080&title_color=fff&text_color=fff"></a></p>
 </details>
 
 <details>
 <summary><b>STATS🔻</summary>
-<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutemeikito&bg_color=30,00008B,800080&title_color=fff&text_color=fff"></a></p>
-<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kutemeikito&bg_color=30,00008B,800080&title_color=fff&text_color=fff" width=200></a></p>
-<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kutemeikito&bg_color=30,00008B,800080&title_color=fff&text_color=fff" width=200></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutemeikito&theme=github_dark"></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kutemeikito&theme=github_dark" width=200></a></p>
+<p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kutemeikito&theme=github_dark" width=200></a></p>
 
 </details>
 
