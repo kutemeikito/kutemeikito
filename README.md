@@ -19,9 +19,14 @@
 <details>
 <summary><b>Weebs🔻</summary>
 <br>
-
+<p align="center">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.anime.svg" alt="kutemeikito">
+</p>
 <p align="center">
   <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.character.svg" alt="kutemeikito">
+</p>
+<p align="center">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.manga.svg" alt="kutemeikito">
 </p>
 </details>
 
