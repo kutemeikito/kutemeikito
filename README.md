@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/anilis.character.svg" alt="kutemeikito">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.character.svg" alt="kutemeikito">
 </p>
 </details>
 
