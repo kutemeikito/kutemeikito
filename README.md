@@ -12,7 +12,16 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/github-metrics.svg" alt="kutemeikito">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/stats.svg" alt="kutemeikito">
+</p>
+</details>
+
+<details>
+<summary><b>Weebs🔻</summary>
+<br>
+
+<p align="center">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/anilis.character.svg" alt="kutemeikito">
 </p>
 </details>
 
