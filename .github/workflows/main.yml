@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github.stats.svg 
+          filename: stats.svg 
           user: kutemeikito
           template: classic
           base: header, activity, community, repositories, metadata
@@ -34,7 +34,7 @@ jobs:
       - name: Skyline
         uses: lowlighter/metrics@latest
         with:
-          filename: github.skyline.svg
+          filename: skyline.svg
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
