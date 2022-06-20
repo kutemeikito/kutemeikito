@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/main/github-metrics.svg" alt="kutemeikito">
+  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/github-metrics.svg" alt="kutemeikito">
 </p>
 </details>
 
