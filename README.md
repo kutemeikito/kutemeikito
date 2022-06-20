@@ -47,4 +47,4 @@
     <p align="center"><a href="https://github.com/kutemeikito/RastaMod69-Clang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kutemeikito&repo=RastaMod69-Clang&show_owner=false&bg_color=30,00008B,800080&title_color=fff&text_color=fff"></a></p>
 </details>
 
-<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/skyline.svg"></p>
+<p align="center"><img src="https://github.com/kutemeikito/kutemeikito/blob/master/skyline.svg"></p>
