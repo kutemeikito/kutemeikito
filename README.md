@@ -7,29 +7,6 @@
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&show_icons=true&bg_color=30,00008B,800080&title_color=fff&text_color=fff&include_all_commits=true"></a></p>
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kutemeikito&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"></a></p>
 
-<details>
-<summary><b>Matrics🔻</summary>
-<br>
-
-<p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/stats.svg" alt="kutemeikito">
-</p>
-</details>
-
-<details>
-<summary><b>Weebs🔻</summary>
-<br>
-<p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.anime.svg" alt="kutemeikito">
-</p>
-<p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.character.svg" alt="kutemeikito">
-</p>
-<p align="center">
-  <img src="https://github.com/kutemeikito/kutemeikito/blob/master/anilis.manga.svg" alt="kutemeikito">
-</p>
-</details>
-
 ### Enviroment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
