@@ -1,7 +1,7 @@
 <h2 align="left"> 👋 Hi There, it's me </h2>
 
 
-<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/paripi-koumei.gif"></p>
+<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/Rika.gif"></p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&show_icons=true&bg_color=30,00008B,800080&title_color=fff&text_color=fff&include_all_commits=true"></a></p>
