@@ -1,7 +1,7 @@
 <h2 align="left"> 👋 Hi There, it's me </h2>
 
 
-<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/rika.gif"></p>
+<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/ai.gif"></p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 <p align="center"><a href="https://github.com/kutemeikito"><img src="https://github-readme-stats.vercel.app/api?username=kutemeikito&show_icons=true&bg_color=30,00008B,800080&title_color=fff&text_color=fff&include_all_commits=true"></a></p>
@@ -12,7 +12,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
-### Im Maintaining AncientOS, RyzenOS & RyzenKernel For
+### Im Maintaining AncientOS, ClownUI & RyzenKernel For
 [![Redmi Note 8](https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ff6700)](https://www.mi.com/global/redmi-note-8/)
 
 <br>
