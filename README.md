@@ -8,7 +8,7 @@
 <a href="https://www.android.com/android-13"><img src="https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://www.microsoft.com/windows/windows-10"><img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
-<a href="https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534"><img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff"></a>
+<a href="https://linuxmint.com"><img src="https://img.shields.io/badge/Linux%20Mint-3EB489?style=flat-square&logo=linuxMint&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Im working development & devices</h4>
