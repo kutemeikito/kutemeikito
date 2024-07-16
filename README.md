@@ -5,10 +5,9 @@
 
 <h4 align=center>Environments</h4>
 <p align=center>
-<a href="https://www.android.com/android-13"><img src="https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://www.android.com/android-14"><img src="https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff"></a>
-<a href="https://www.microsoft.com/windows/windows-10"><img src="https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
-<a href="https://linuxmint.com"><img src="https://img.shields.io/badge/Linux%20Mint-3EB489?style=flat-square&logo=linuxMint&logoColor=ffffff"></a>
+<a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff"></a>
+<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-ff6700?style=flat-square&logo=ubuntu&logoColor=ffffff"></a>
 </p>
 
 <h4 align=center>Im working development & devices</h4>
