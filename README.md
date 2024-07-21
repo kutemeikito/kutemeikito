@@ -1,6 +1,6 @@
 <h2 align="left"> 👋 Hi There, it's me </h2>
 
-<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/ai.gif"></p>
+<p align="center"><img width="100" src="https://github.com/kutemeikito/kutemeikito/blob/master/assets/yuki.gif"></p>
 <p align="Center"><img width="125" src="https://komarev.com/ghpvc/?username=kutemeikito&style=flat-square" alt="kutemeikito"></p>
 
 <h4 align=center>Environments</h4>
