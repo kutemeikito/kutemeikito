@@ -13,6 +13,7 @@
 <h4 align=center>Im working development & devices</h4>
 <p align=center>
 <a href="https://www.mi.com/global/redmi-note-8"><img src="https://img.shields.io/badge/Redmi%20Note%208-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
+<a href="https://www.mi.com/global/product/poco-f6"><img src="https://img.shields.io/badge/POCO%20F6-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
 <a href="https://github.com/ancient-roms"><img src="https://img.shields.io/badge/AncientOS-fccf03?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://github.com/ClownUI"><img src="https://img.shields.io/badge/ClownUI-700054?style=flat-square&logo=android&logoColor=ffffff"></a>
 <a href="https://github.com/kutemeikito/android_kernel_xiaomi_ginkgo"><img src="https://img.shields.io/badge/Ryzen%20Kernel-0067ab?style=flat-square&logo=linux&logoColor=ffffff"></a>
